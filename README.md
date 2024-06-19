@@ -1,5 +1,5 @@
 # used go version.
-go version
+
 go version go1.22.3 windows/amd64
 
 #run the main.go and press the enter multiple time to see the magic
